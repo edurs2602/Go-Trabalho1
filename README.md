@@ -204,7 +204,7 @@ O trabalho em cooperação entre estudantes da turma é estimulado, sendo admiss
 
 ## Entrega
 
-O sistema de controle de versões [Git](https://git-scm.com) e o serviço de hospedagem de repositórios [GitHub](https://git-scm.com) serão utilizados para possibilitar a entrega da implementação realizadas. Para possibilitar a associação de repositórios Git para cada equipe e reuni-los sob uma mesma infraestrutura, foi criada uma atividade (_assignment_) no GitHub Classroom. Cada integrante de equipe deverá acessar este [_link_](https://classroom.github.com/a/NROUxqsa), aceitar o convite para ingressar no GitHub Classroom e finalmente seguir as instruções em tela para acessar a atividade e ingressar em uma equipe existente ou criar outra. Este [vídeo](https://youtu.be/ObaFRGp_Eko) demonstra como ocorre esse processo.
+O sistema de controle de versões [Git](https://git-scm.com) e o serviço de hospedagem de repositórios [GitHub](https://git-scm.com) serão utilizados para possibilitar a entrega da implementação realizadas. Para possibilitar a associação de repositórios Git para cada equipe e reuni-los sob uma mesma infraestrutura, foi criada uma atividade (_assignment_) no GitHub Classroom. Cada integrante de equipe deverá acessar este [_link_], aceitar o convite para ingressar no GitHub Classroom e finalmente seguir as instruções em tela para acessar a atividade e ingressar em uma equipe existente ou criar outra. Este [vídeo](https://youtu.be/ObaFRGp_Eko) demonstra como ocorre esse processo.
 
 No momento de criação de uma equipe, o GitHub Classroom cria um repositório Git privado acessível unicamente pelos integrantes da equipe e pelo docente, sob a organização [`ufrn-golang`](https://github.com/ufrn-golang). A fim de garantir a boa manutenção do repositório, deve-se ainda configurar corretamente o arquivo `.gitignore` para desconsiderar arquivos que não devam ser versionados, a exemplo do arquivo executável gerado a partir da compilação do código fonte.
 
@@ -235,7 +235,7 @@ O não cumprimento de algum dos critérios de avaliação especificados poderá 
 
 Caso haja qualquer dúvida, questionamento ou necessidade de informação adicional, é possível:
 
-- enviar _e-mail_ para o endereço everton.cavalcante@ufrn.br;
+- enviar _e-mail_ para o endereço;
 - enviar mensagem privada diretamente ao docente, utilizando o servidor Discord;
 - enviar mensagem no canal de texto `#duvidas` no servidor Discord, ou;
 - agendar encontros síncronos pelo canal de áudio `Fale com Prof. Everton` no servidor Discord.
